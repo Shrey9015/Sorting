@@ -1,3 +1,5 @@
+// This code will skip Passes if the array is already Sorted
+
 #include <iostream>
 using namespace std;
 
